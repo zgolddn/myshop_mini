@@ -1,7 +1,5 @@
 📝 Widget Utama yang Digunakan
 
-Widget = Tujuan dalam Proyek
-
 Scaffold = Menyediakan tata letak layar dasar (AppBar & Body).
 
 Column, Row = Mengatur widget secara vertikal dan horizontal.
